@@ -1,2 +1,2 @@
 # gitattributes
-*.[ch]		linguist-language=C
+*.[ch] linguist-language=C
