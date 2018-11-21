@@ -4,7 +4,7 @@
 
 #include "ipr.h"
 
-/* PG version dependencies */
+/* PG version dependencies x */
 
 #define INET_STRUCT_DATA(is_) ((inet_struct *)VARDATA_ANY(is_))
 
