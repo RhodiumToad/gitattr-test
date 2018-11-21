@@ -1,0 +1,2 @@
+# gitattributes
+*.[ch]		linguist-language=C
